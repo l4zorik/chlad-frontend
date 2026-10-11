@@ -50,7 +50,3 @@ export default function Page() {
   )
 }
 
-function _UnusedQuantityControl() { return <div><Minus /><Plus /></div> }
-
-void _UnusedQuantityControl
-
